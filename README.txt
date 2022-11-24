@@ -1,0 +1,1 @@
+This program basically does that it creates threads / execs and hence creates different processes of those processsed we set a priority and the scheduling type , as priority increases the time to complete decreases while as priority decreases the time to complete increases there changes are mapped using histograms
